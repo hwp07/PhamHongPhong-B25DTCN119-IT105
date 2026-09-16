@@ -15,7 +15,7 @@
 
 &nbsp;
 
-[Activity Diagram](https://app.diagrams.net/?splash=0#G1CnyS4tstNrfoRqR1oSQCgqq0FIJCPYUh#%7B%22pageId%22%3A%22Qe_I5oY5TGvhHf-WFphy%22%7D)
+[Activity Diagram](https://drive.google.com/file/d/1CnyS4tstNrfoRqR1oSQCgqq0FIJCPYUh/view?usp=drive_link)
 
 &nbsp;
 
